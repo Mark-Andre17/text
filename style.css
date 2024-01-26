@@ -1,0 +1,18 @@
+p{
+    max-width: 500px;
+}
+.first{
+    color: red;
+    font-style: italic;
+    font-size: 12px;
+}
+.second{
+    color:blue;
+    font-size: 24px;
+    font-weight: 600;
+}
+.third{
+    color:yellow;
+    font-size: 24px;
+    text-decoration: underline;
+}
